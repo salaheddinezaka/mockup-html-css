@@ -12,7 +12,5 @@ Mockup url: https://xd.adobe.com/spec/dc26c0e1-4c08-4e4f-56b3-d6324d16fd5a-aa17/
 
 ## Instructions
 How to attempt this challenge:
-1) Create a new repo in your account and note the git url
-2) Solve the challenge
-3) Attach CodePen link within your README file
-You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
+1) Solve the challenge
+3) Provide us with CodePen link to your template
